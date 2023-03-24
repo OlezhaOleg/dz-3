@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<student>
+    <name>Olezha</name>
+    <surname>Dovgal</surname>
+    <age>29</age>
+    <height>1.81</height>
+    <married>false</married>
+    <children />
+    <story>Olezha hates orks and this is not a joke</story>
+    <bio>
+Born 
+Went to kindergarten 
+Went to school 
+Went to college 
+Went to university</bio>
+    <friends>Himars</friends>
+    <friends>Javelin</friends>
+    <enemies>9K512 Uragan-1M</enemies>
+    <enemies>9K720 Iskander</enemies>
+    
+    <address>
+        <Olezha>
+            <country>Ukraine</country>
+            <city>Zaporozhye</city>
+            <street>Giran</street>
+        </Olezha>
+    </address>
+    
+    <hobby>
+        <winter>Lineage2</winter>
+        <winter>snowboard</winter>
+        <summer>cycling in Khortytsya</summer>
+        <summer>swimming</summer>
+    </hobby>
+</student>
+
+
+

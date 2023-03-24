@@ -1,0 +1,27 @@
+student:
+  name: Olezha
+  surname: Dovgal
+  age: 29
+  height: 1.81
+  married: False
+  children: null
+  story: Olezha hates orks
+    and this is not a joke
+  bio: | 
+    Born
+    Went to kindergarten
+    Went to school
+    Went to college
+    Went to university
+  friends: [Himars, Javelin]
+  enemies:
+    -"9K512 Uragan-1M"
+    -"9K720 Iskander"
+  address:
+     Olezha:
+       country: Ukraine
+       city: Zaporozhye
+       street: Giran 
+  hobby:
+    winter: [Lineage2, snowboard]
+    summer: [cycling in Khortytsya, swimming]
